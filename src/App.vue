@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import ChapterDemo from '@/chapters/basic/Chapter04.vue';
+import ChapterDemo from '@/chapters/basic/Chapter05.vue';
 </script>
 
 <template>
