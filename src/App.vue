@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import ChapterDemo from '@/chapters/02-components/chapter03/VModel.vue';
+import Attrs from '@/chapters/02-components/chapter04/Attrs.vue';
 </script>
 
 <template>
-  <ChapterDemo />
+  <Attrs />
 </template>
