@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import Attrs from '@/chapters/02-components/chapter04/Attrs.vue';
+import Slots from '@/chapters/02-components/chapter05/Slots.vue';
 </script>
 
 <template>
-  <Attrs />
+  <Slots />
 </template>

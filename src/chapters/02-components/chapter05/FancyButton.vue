@@ -1,0 +1,23 @@
+<script setup lang="ts"></script>
+
+<template>
+  <button class="fancy-btn">
+    <!-- slot outlet -->
+    <slot>
+      <!--默认内容-->
+      submit
+    </slot>
+  </button>
+</template>
+
+<style scoped>
+.fancy-btn {
+  color: #fff;
+  background: linear-gradient(315deg, #42d392 25%, #647eff);
+  border: none;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+</style>
